@@ -57,7 +57,6 @@ Uma aplicação de chat que permite aos usuários se registrarem, fazerem login 
 <li>Recuperação de Senha: Caso tenha esquecido a senha, utilize a funcionalidade de recuperação de senha.</li>
 </ol>
 
-
 chat-app/
   - ├── server.js           # Arquivo principal do servidor
   - ├── public/             # Arquivos públicos (HTML, CSS, JS)
