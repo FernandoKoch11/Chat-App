@@ -31,11 +31,11 @@ Uma aplicação de chat que permite aos usuários se registrarem, fazerem login 
 ## Instalação
 
   ``
-  git clone https://github.com/seu_usuario/chat-[]app.git
+  git clone https://github.com/seu_usuario/chat-app.git
   ``
 
  ``
-  cd chat-[]app
+  cd chat-app
   ``
   
  ``
