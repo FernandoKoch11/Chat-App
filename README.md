@@ -76,6 +76,12 @@ Fork o repositório.
 **Licença**
 Este projeto está sob a Licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 
+## Demonstração do Site
+
+Aqui está uma demonstração da aplicação de chat:
+
+https://github.com/user-attachments/assets/c599ee63-ec19-42ab-a4d3-d8d910507755
+
 Contato
 Para perguntas ou feedback, entre em contato:
 
