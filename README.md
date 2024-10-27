@@ -4,13 +4,13 @@ Uma aplicação de chat que permite aos usuários se registrarem, fazerem login 
 
 ## Índice
 
-- [Recursos](#recursos)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Como Contribuir](#como-contribuir)
-- [Licença](#licença)
-- [Contato](#contato)
+- Recursos
+- Tecnologias Utilizadas
+- Instalação
+- Uso
+- Como Contribuir
+- Licença
+- Contato
 
 ## Recursos
 
