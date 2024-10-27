@@ -1,0 +1,165 @@
+body {
+    background: linear-gradient(120deg, #5708eb 0%, #ca0fe7 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #fff;
+}
+
+.title {
+    text-align: center;
+    margin-top: 20px;
+    width: 100%;
+}
+
+.Login {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 90%;
+    max-width: 500px;
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+p, h2, h1 {
+    text-align: center;
+}
+
+h1, h2 {
+    margin: 0;
+    padding-bottom: 10px;
+}
+
+input {
+    border-radius: 8px;
+    height: 23px;
+    width: 100%;
+    max-width: 300px;
+    margin: 6px 0;
+    padding: 5px;
+    border: 1px solid #ccc;
+    background-color: rgba(255, 255, 255, 0.3);
+    color: #000;
+}
+
+.password-container {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    max-width: 312px;
+    margin: 6px 0;
+}
+
+.password-container input {
+    flex-grow: 1;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+#togglePassword {
+    height: 35px;
+    width: 40px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border: 1px solid #ccc;
+    background-color: rgba(255, 255, 255, 0.3);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#button1, #button2 {
+    margin: 10px;
+    padding: 10px;
+    width: 100%;
+    max-width: 150px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#button1 {
+    background-color: #000;
+    color: #fff;
+    border: none;
+}
+
+#button2 {
+    background-color: #fff;
+    color: #000;
+    height: auto;
+}
+
+#TitleChat, #ChatView, #ChatInput {
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 10px;
+    margin-top: 20px;
+    padding: 10px;
+    text-align: center;
+}
+
+#TitleChat {
+    height: 50px;
+    width: 90%;
+    max-width: 300px;
+}
+
+#ChatView {
+    height: 400px;
+    width: 90%;
+    max-width: 400px;
+    overflow-y: scroll;
+}
+
+#ChatInput {
+    width: 90%;
+    max-width: 400px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#send {
+    background-image: url('https://e7.pngegg.com/pngimages/160/970/png-clipart-point-m-computer-icons-museum-send-email-button-miscellaneous-angle.png');
+    background-size: cover;
+    height: 30px;
+    width: 30px;
+    border: none;
+    cursor: pointer;
+}
+
+#message {
+    flex-grow: 1;
+    height: 30px;
+    border-radius: 10px;
+    margin-left: 5px;
+    padding: 5px;
+}
+
+/* Responsividade */
+@media (max-width: 500px) {
+    .title, .Login, #TitleChat, #ChatView, #ChatInput {
+        width: 95%;
+    }
+    input, #button1, #button2, #message {
+        width: 100%;
+    }
+}
+#forgotPassword {
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 5px;
+    width: auto;
+    display: flex;
+    height: auto;
+}
