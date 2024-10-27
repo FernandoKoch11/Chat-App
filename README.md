@@ -2,7 +2,7 @@
 
 Uma aplicação de chat que permite aos usuários se registrarem, fazerem login e interagirem em um ambiente seguro e dinâmico. Este projeto foi desenvolvido com Node.js, Express e SQLite, proporcionando uma solução leve e eficaz para comunicação em tempo real.
 
-## visualisão do site [ChatApp](https://github.com/FernandoKoch11/Chat-App/pulls)
+## visualisão do site [ChatApp](https://chat-app-dev-fer.vercel.app/)
 
 ## Índice
 
