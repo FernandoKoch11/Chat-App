@@ -54,7 +54,6 @@ Uma aplicação de chat que permite aos usuários se registrarem, fazerem login 
 <ol>
 <li>Registro de Usuário: Preencha o formulário de registro com um nome de usuário e uma senha. O nome de usuário deve ser único.</li>
 <li>Login: Após o registro, faça login usando o seu nome de usuário e senha.</li>
-<li>Recuperação de Senha: Caso tenha esquecido a senha, utilize a funcionalidade de recuperação de senha.</li>
 </ol>
 
 chat-app/
